@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "MPTopFloatingView"
-  s.version          = "0.2.4"
+  s.version          = "0.2.5"
   s.summary          = "Mercado Pago Top Floating View"
 
   s.description      = <<-DESC
@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.license          = 'Apache License, Version 2.0'
   s.author           = { "MPMobile" => "mpmobileios@mercadolibre.com" }
 
-  s.source           = { :git => "https://github.com/mercadolibre/MPTopFloatingView.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/matynz/MPTopFloatingView.git", :tag => s.version.to_s }
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
