@@ -1,3 +1,3 @@
 #!/bin/bash
 
-rake release["MPTopFloatingView"]
+rm .git/hooks/pre-push
